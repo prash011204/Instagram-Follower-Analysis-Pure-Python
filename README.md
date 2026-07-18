@@ -33,14 +33,11 @@ The primary objective of this project is to demonstrate strong Python programmin
 
 ---
 
-
 ## ✨ Features
 
 - 📁 Read Instagram follower data from a text file
 - 🔍 Parse raw text into structured records
 - 👥 Count total followers
-- ✔️ Identify verified accounts
-- 🌍 Analyze public and private profiles
 - 📈 Calculate follower statistics
 - 🏆 Display top-ranked accounts
 - 🔎 Search followers by username
@@ -93,20 +90,6 @@ Instagram-Follower-Analysis-Pure-Python/
 
 ---
 
-## 📊 Analysis Performed
-
-The notebook includes various analyses such as:
-
-- Total followers
-- Verified vs Non-Verified accounts
-- Public vs Private profiles
-- Professional vs Personal accounts
-- Follower rankings
-- Username search functionality
-- Summary statistics
-- Category-wise analysis
-
----
 
 ## 💡 Key Learning Outcomes
 
